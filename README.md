@@ -1,2 +1,2 @@
-# pyton-course-
+# python-course-
 elzero web school 
